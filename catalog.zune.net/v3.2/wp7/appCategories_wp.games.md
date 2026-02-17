@@ -1,9 +1,14 @@
 # http://catalog.zune.net/v3.2/en-US/appCategories/windowsphone.games/apps?clientType={CLIENT_TYPE}&store=Zest&store=&store=&tag={APP_TAG}&orderby={ORDER_BY}&cost={COST}&chunk_size=10
 This endpoint was for Windows Phone 7's Marketplace.
+
 Client Type is like: WinMobile 7.0, 7.1, 7.5 or 7.8.
+
 App tag is like: apptag.* (example: apptag.premium)
+
 Order by is like: (example: downloadRank)
+
 Cost: (example: "free" or "paid")
+
 ZuneNetApi's info: (only cost and orderby) "cost={paid|free}&store=Zest&orderby={downloadRank|releaseDate}" (example)
 
 Example response with data: <?xml version="1.0" encoding="utf-8"?>
