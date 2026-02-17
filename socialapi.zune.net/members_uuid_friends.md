@@ -1,4 +1,4 @@
-# http://socialapi.zune.net/en-US/members/{UUID}/friends
+# http://socialapi.zune.net/en-US/members/{UUID|Username}/friends
 User's friends.
 Response (original data):
 ```<?xml version="1.0" encoding="utf-8"?>
