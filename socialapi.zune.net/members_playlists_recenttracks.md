@@ -1,4 +1,4 @@
-# http://socialapi.zune.net:80/members/{UUID|Username}/playlists/BuiltIn-RecentTracks
+# http://socialapi.zune.net/members/{UUID|Username}/playlists/BuiltIn-RecentTracks
 Response (original data):
 ```<?xml version="1.0" encoding="utf-8"?>
 <a:feed
