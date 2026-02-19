@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<a:feed
+    xmlns:a="http://www.w3.org/2005/Atom"
+    xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+
+    <a:title type="text">Reviews</a:title>
+    <a:updated>2026-02-18T05:20:00Z</a:updated>
+
+    <a:entry>
+        <rating>5</rating>
+        <reviewTitle>Best game ever</reviewTitle>
+        <reviewBody>Amazing on Lumia 636!</reviewBody>
+        <reviewer>John Doe</reviewer>
+        <reviewDate>2015-02-11T00:00:00Z</reviewDate>
+        <device>RM-1027</device>
+    </a:entry>
+
+    <a:entry>
+        <rating>4</rating>
+        <reviewTitle>Very good</reviewTitle>
+        <reviewBody>Needs improvements.</reviewBody>
+        <reviewer>Sarah Loe</reviewer>
+        <reviewDate>2015-03-22T00:00:00Z</reviewDate>
+        <device>RM-1027</device>
+    </a:entry>
+
+</a:feed>
