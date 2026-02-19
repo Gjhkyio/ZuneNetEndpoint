@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<offer xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+    <offerId>urn:uuid:08de3c16-73a6-460d-bdf6-8750e393fa25</offerId>
+    <price>6.99</price>
+    <displayPrice>$6.99</displayPrice>
+    <priceCurrencyCode>USD</priceCurrencyCode>
+    <licenseRight>Purchase</licenseRight>
+    <trialSupported>true</trialSupported>
+</offer>
