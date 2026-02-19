@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<a:entry
+    xmlns:a="http://www.w3.org/2005/Atom"
+    xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+
+    <a:id>urn:uuid:51d19d26-bf21-4589-bbf0-15682f72e045</a:id>
+    <a:title type="text">Minceraft</a:title>
+    <a:updated>2026-02-18T05:10:00Z</a:updated>
+
+    <summary>Create and explore infinite worlds.</summary>
+    <version>1.9.0.0</version>
+    <releaseDate>2014-12-10T00:00:00Z</releaseDate>
+    <fileSize>287654321</fileSize>
+
+    <averageUserRating>4.6</averageUserRating>
+    <userRatingCount>15234</userRatingCount>
+
+    <screenshots>
+        <screenshot>
+            <id>urn:uuid:11111111-2222-3333-4444-555555555555</id>
+        </screenshot>
+        <screenshot>
+            <id>urn:uuid:66666666-7777-8888-9999-aaaaaaaaaaaa</id>
+        </screenshot>
+    </screenshots>
+
+    <capabilities>
+        <capability>ID_CAP_NETWORKING</capability>
+        <capability>ID_CAP_MEDIALIB</capability>
+    </capabilities>
+
+    <offers>
+        <offer>
+            <price>6.99</price>
+            <displayPrice>$6.99</displayPrice>
+            <priceCurrencyCode>USD</priceCurrencyCode>
+            <licenseRight>Purchase</licenseRight>
+        </offer>
+    </offers>
+
+    <publisher>
+        <id>Molang</id>
+        <name>Molang Labs</name>
+    </publisher>
+
+</a:entry>
