@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+
+    <category>
+        <id>windowsphone.Games</id>
+        <title>gaems</title>
+        <isRoot>true</isRoot>
+    </category>
+
+    <category>
+        <id>windowsphone.ActionAndAdventure</id>
+        <title>how to die in 1000 ways</title>
+        <parentId>windowsphone.Games</parentId>
+        <isRoot>false</isRoot>
+    </category>
+
+    <category>
+        <id>windowsphone.Social</id>
+        <title>socialism</title>
+        <isRoot>true</isRoot>
+    </category>
+
+</categories>
